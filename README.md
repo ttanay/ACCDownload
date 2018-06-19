@@ -4,7 +4,7 @@ Script to download resources for Astronomy Code Camp.
 ## Instructions
 
 ### For Windows
-1. Type `pip install bs4, lxml, requests` in Command Prompt and press Enter.
+1. Type `pip install bs4 lxml requests` in Command Prompt and press Enter.
 2. Execute main.py with `python`.
 
 ### For Linux, Mac
